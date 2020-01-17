@@ -7,9 +7,9 @@ description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
 image: >-
-  https://github.com/GilgameshTC/projects-site/assets/img/ora.png
+  https://github.com/GilgameshTC/projects-site/blob/master/assets/img/ora.png
 optimized_image: >-
-  https://github.com/GilgameshTC/projects-site/assets/img/ora.png
+  https://github.com/GilgameshTC/projects-site/blob/master/assets/img/ora.png
 category: blog
 tags:
   - welcome
