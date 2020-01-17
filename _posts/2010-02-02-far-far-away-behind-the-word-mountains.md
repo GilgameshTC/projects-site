@@ -7,9 +7,9 @@ description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
 image: >-
-  https://github.com/GilgameshTC/projects-site/blob/master/assets/img/projects/arrow-logo.png
+  https://res.cloudinary.com/gilgameshtc/image/upload/v1579249306/project-assets/arrow-logo_gnxitx.png
 optimized_image: >-
-  https://github.com/GilgameshTC/projects-site/blob/master/assets/img/projects/arrow-logo.png
+  https://res.cloudinary.com/gilgameshtc/image/upload/v1579249306/project-assets/arrow-logo_gnxitx.png
 category: travel
 tags:
   - mountains

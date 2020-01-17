@@ -7,9 +7,9 @@ description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
 image: >-
-  ![](assets/img/projects/ora.png)
+  https://res.cloudinary.com/gilgameshtc/image/upload/v1579249307/project-assets/ora_s3vxr5.png
 optimized_image: >-
-  ![](assets/img/projects/ora.png)
+  https://res.cloudinary.com/gilgameshtc/image/upload/v1579249307/project-assets/ora_s3vxr5.png
 category: blog
 tags:
   - welcome
