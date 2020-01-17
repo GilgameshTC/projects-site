@@ -9,7 +9,7 @@ description: >-
 image: >-
   {{ site.url }}{{ site.baseurl }}/assets/img/ora.png
 optimized_image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
+  {{ site.url }}{{ site.baseurl }}/assets/img/ora.png
 category: blog
 tags:
   - welcome
