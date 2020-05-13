@@ -5,7 +5,7 @@
   {% for page in site.pages %}
     {% if page.menu %}
       <li>
-        <a href="{{ site.url }}{{ site.home }}{{ page.url }}">{{ page.title }}</a>
+        <a href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
       </li>
     {% endif %}
   {% endfor %}
